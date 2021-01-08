@@ -1,0 +1,25 @@
+.content-wrapper {
+  flex-direction: column;
+  justify-content: space-around;
+  height: 600px;
+  align-items: center;
+  padding-top: 6rem;
+}
+
+.search1 {
+  display: flex;
+  background-color: rgba(255, 214, 210, 0.4);
+  height: 100px;
+  align-items: center;
+  box-shadow: 0 20px 50px -20px rgba(0, 0, 0, 0.2);
+  justify-content: center;
+  margin: 0 13rem;
+  border-radius: 5px;
+  
+}
+.searchwrap{
+  align-items: center;
+}
+
+
+

@@ -1,0 +1,42 @@
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  border-bottom:solid 1px #77818b;
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.05);
+  padding:1rem;
+  font-size: 3rem;
+  font-style: oblique;
+  position:relative;
+  font-weight: 600;
+
+  
+}
+.gillion{
+  font-size: 1.75rem; 
+  position: absolute;;
+  left:2rem;
+  font-weight: normal;
+
+}
+.foodie{
+  font-weight: 900;
+  padding-left: 4px;
+}
+.cooking{
+  font-size: .725rem;
+  letter-spacing:5px;
+}
+#plate{
+  width:50px;
+  height:40px;
+  padding:0 5px;
+}
+.recipe{
+  color:#ffbf00;
+}
+.search{
+  color:#3e1c00
+}
